@@ -1,0 +1,9 @@
+julia
+5
+4.9
+kari
+6
+9.8
+another
+4
+5.6
